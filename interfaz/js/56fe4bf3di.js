@@ -1,12 +1,12 @@
     // Lista de IDs de botones y sus sufijos únicos
     const buttons = [
-        { id: "button1", suffix: "WCKCXGNO" },
-        { id: "button2", suffix: "7KJAGGDO" },
-        { id: "button3", suffix: "8HFDZR1A" },
-        { id: "button4", suffix: "6W3HN6AA" },
-        { id: "button5", suffix: "WNFLBXF2" },
-        { id: "button6", suffix: "DNJKX4QL" },
-        { id: "button7", suffix: "HURMIN4E" }
+        { id: "button1", suffix: "XD5MZMXZ" },
+        { id: "button2", suffix: "JI48TV18" },
+        { id: "button3", suffix: "UEZ7DKAS" },
+        { id: "button4", suffix: "U2ZOICFJ" },
+        { id: "button5", suffix: "25TDX41Y" },
+        { id: "button6", suffix: "M428NNVW" },
+        { id: "button7", suffix: "I6315N6T" }
     ];
 
     // Función para agregar eventos a los botones
